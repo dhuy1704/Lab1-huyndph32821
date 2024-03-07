@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40066545977",
+    "project_id": "nguyendachuy17-209d8",
+    "storage_bucket": "nguyendachuy17-209d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40066545977:android:a261099c50388a58cfd0e8",
+        "android_client_info": {
+          "package_name": "com.huynd17.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANkKarbkr2tGp5MV36bWqnMlrTAgBGnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
